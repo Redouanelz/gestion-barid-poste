@@ -1,0 +1,53 @@
+c:\users\rlz\documents\visual studio 2010\projects\BaridPost\BaridPost\bin\Debug\BaridPost.exe
+c:\users\rlz\documents\visual studio 2010\projects\BaridPost\BaridPost\bin\Debug\BaridPost.pdb
+c:\users\rlz\documents\visual studio 2010\projects\BaridPost\BaridPost\obj\x86\Debug\BaridPost.Properties.Resources.resources
+c:\users\rlz\documents\visual studio 2010\projects\BaridPost\BaridPost\obj\x86\Debug\BaridPost.csproj.GenerateResource.Cache
+c:\users\rlz\documents\visual studio 2010\projects\BaridPost\BaridPost\obj\x86\Debug\BaridPost.exe
+c:\users\rlz\documents\visual studio 2010\projects\BaridPost\BaridPost\obj\x86\Debug\BaridPost.pdb
+C:\Users\Rlz\documents\visual studio 2010\projects\BaridPost\BaridPost\obj\x86\Debug\BaridPost.csprojResolveAssemblyReference.cache
+C:\Users\Rlz\documents\visual studio 2010\projects\BaridPost\BaridPost\obj\x86\Debug\BaridPost.NouveauContratRéexpidition.resources
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost\BaridPost\obj\x86\Debug\BaridPost.Login.resources
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost\BaridPost\obj\x86\Debug\BaridPost.MenuOk.resources
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.exe
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.pdb
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\bin\Debug\BaridPost.exe
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\bin\Debug\BaridPost.pdb
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.csprojResolveAssemblyReference.cache
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.Login.resources
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.MenuOk.resources
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.Properties.Resources.resources
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.csproj.GenerateResource.Cache
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.NouveauContrat.resources
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.ControleContrat.resources
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.Saisi.resources
+C:\Users\Rlz\Documents\Visual Studio 2010\Projects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.HistoriqueContrats.resources
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.exe
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.pdb
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\bin\Debug\BaridPost.exe
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\bin\Debug\BaridPost.pdb
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.csprojResolveAssemblyReference.cache
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.ControleContrat.resources
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.HistoriqueContrats.resources
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.Login.resources
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.MenuOk.resources
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.NouveauContrat.resources
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.Properties.Resources.resources
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.Saisi.resources
+C:\Users\Rlz\Desktop\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.csproj.GenerateResource.Cache
+C:\Users\Rlz\Desktop\MyProjects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.exe
+C:\Users\Rlz\Desktop\MyProjects\BaridPost - Copy\BaridPost\obj\x86\Debug\BaridPost.pdb
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.exe
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.pdb
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\bin\Debug\BaridPost.exe
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\bin\Debug\BaridPost.pdb
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.csprojResolveAssemblyReference.cache
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.ControleContrat.resources
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.HistoriqueContrats.resources
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.Login.resources
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.MenuOk.resources
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.NouveauContrat.resources
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.Properties.Resources.resources
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.Saisi.resources
+C:\Users\Rlz\Desktop\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.csproj.GenerateResource.Cache
+C:\Users\Rlz\Desktop\my work\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.exe
+C:\Users\Rlz\Desktop\my work\BARID POSTE - SIHAM\BaridPost\obj\x86\Debug\BaridPost.pdb
